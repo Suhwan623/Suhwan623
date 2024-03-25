@@ -33,3 +33,8 @@
   <img src="https://img.shields.io/badge/VsCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </div>
+
+<div align="center">
+  <h2>✨Contact</h2>
+  <a href="https://www.instagram.com/3.cupid_/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  </div>
