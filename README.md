@@ -37,6 +37,12 @@
 <div align="center">
   <h2>Contact</h2>
   <a href="https://www.instagram.com/3.cupid_/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://lowly-lyre-6b7.notion.site/Leesuhwan-1d7e507963a442cfab222f42649cd3b6" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white
-"/>
+</div>
+<br>
+<br>
+  <div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suhwan623&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
+</a>
+                                                                                                      
 
