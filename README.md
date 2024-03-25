@@ -35,6 +35,8 @@
 </div>
 
 <div align="center">
-  <h2>✨Contact</h2>
+  <h2>Contact</h2>
   <a href="https://www.instagram.com/3.cupid_/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://lowly-lyre-6b7.notion.site/Leesuhwan-1d7e507963a442cfab222f42649cd3b6" target="_blank"><img src="https://img.shields.io/badge/Notion-404040?style=for-the-badge&logo=notion&logoColor=white"/>
   </div>
+
