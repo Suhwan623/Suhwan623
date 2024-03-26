@@ -47,7 +47,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Suhwan623&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
       <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhwan623&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhwan623&layout=compact&hide=javascript,css,scss&theme=material-palenight&langs_count=8"/>
 </a>
                                                                                                       
 
