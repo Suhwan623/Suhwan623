@@ -38,6 +38,7 @@
   <h2>Contact</h2>
   <a href="https://www.instagram.com/3.cupid_/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
    <a href="https://velog.io/@suhwan623"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  <a href="mailto:acmquwjm@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 <br>
 <br>
